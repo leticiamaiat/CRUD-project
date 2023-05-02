@@ -1,9 +1,9 @@
 # Run Backend: 
-##open terminal 
-#cd backend 
-#python server.py
+## open terminal 
+## cd backend 
+## python server.py
 
-###Run Frontend: 
+# Run Frontend: 
 #open terminal
 #npm start
 
