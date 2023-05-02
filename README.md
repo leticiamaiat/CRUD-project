@@ -1,3 +1,14 @@
+###Run Backend: 
+#open terminal 
+#cd backend 
+#python server.py
+
+###Run Frontend: 
+#open terminal
+#npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
