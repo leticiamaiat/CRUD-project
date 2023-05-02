@@ -4,8 +4,8 @@ cd backend
 python server.py
 
 # Run Frontend: 
-#open terminal
-###'npm start'
+open terminal
+npm start
 
 
 
