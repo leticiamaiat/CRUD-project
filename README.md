@@ -12,6 +12,9 @@ open terminal
 
 npm start
 
+# install requirements
+### `pip install -r requiremetns.txt`
+
 
 
 # Getting Started with Create React App
