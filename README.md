@@ -1,5 +1,5 @@
-###Run Backend: 
-#open terminal 
+#Run Backend: 
+##open terminal 
 #cd backend 
 #python server.py
 
