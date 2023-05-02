@@ -1,4 +1,4 @@
-#Run Backend: 
+# Run Backend: 
 ##open terminal 
 #cd backend 
 #python server.py
